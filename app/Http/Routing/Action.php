@@ -60,7 +60,7 @@ class Action
         try {
             $request = $this->validateRequest();
         } catch (InvalidInputException $e) {
-            return new JsonResponse($e);
+            return new JsonResponse($e, 422);
         }
 
         return $this->executeController($request);

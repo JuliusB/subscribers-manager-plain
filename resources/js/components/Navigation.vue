@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-success">
             <div class="container">
                 <a class="navbar-brand" href="/">
-                    <img src="https://canada.uptake.com/portals/0/Images/Icons/CustomerManagement.png" height="35">
+                    <img src="/images/logo.png" height="35">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
